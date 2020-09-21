@@ -6,4 +6,4 @@
 
 ----------------
 
-## This is a funny repo, don't consider wastinf time here!
+## This is a funny repo, don't consider wasting time here!
